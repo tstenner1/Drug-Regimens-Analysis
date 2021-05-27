@@ -1,5 +1,7 @@
 # Matplotlib 
 
+Below is a trimmed down readme highlighting the specific skills executed in this assignment.
+
 ## Background
 
 What good is data without a good plot to tell the story?
