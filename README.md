@@ -20,7 +20,7 @@ In this repository I showcase what I have learned with Python Matplotlib and app
 
 * Using Matplotlib, a box and whisker plot of the final tumor volume for all four treatment regimens was made and I highlighted any potential outliers in the plot by changing their color and style.
 
-* A mouse was then selected that was treated with Capomulin and generated a line plot of tumor volume vs. time point for that mouse.
+* A mouse was then selected that was treated with Capomulin and I generated a line plot of tumor volume vs. time point for that mouse.
 
 * A scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen followed.
 
